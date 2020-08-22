@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ponto-inteligente"/>
+<aop-project name="cursoparaestudo"/>
+<aop-project name="batchmysqlcsv"/>
+<aop-project name="orcamento"/>
+<aop-project name="veiculos"/>
+<aop-project name="veiculos-batch"/>
+</aop-reference-model>
